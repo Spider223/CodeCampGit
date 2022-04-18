@@ -12,12 +12,12 @@ int main(){
       printf("Enter the marks of Applied:\n");
    scanf("%d", &marks3);
 
-      printf("Enter the marks of Thermal:\n");
+   printf("Enter the marks of Thermal:\n");
    scanf("%d", &marks4);
 
-      printf("Enter the marks of Drawing:\n");
+    printf("Enter the marks of Drawing:\n");
    scanf("%d", &marks5);
-
+    // This code is changed
 
 
     return 0;
