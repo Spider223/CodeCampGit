@@ -1,0 +1,6 @@
+Algorithm
+Step 1 : Start
+Step 2 : Enter marks as sub1 , sub2, sub3, sub4, sub5 
+Step 3 : Calculate percentage = (sub1 + sub2 + sub3 + sub4 +sub5) / 5
+Step 4 : Print percentage
+Step 5 : End
