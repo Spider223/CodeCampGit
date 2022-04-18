@@ -12,10 +12,11 @@ int main()
     if (i >= 90)
     {
         printf("A+");
+        printf("outstanding result");
     }
     else if (i >= 80 && i < 90)
     {
-        printf("A-");
+        printf("A");
     }
     else if (i >= 70 && i < 80)
     {
