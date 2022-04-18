@@ -13,5 +13,7 @@ int main()
     else{
         printf("a is greater!");
     }
+    printf("madan");
+    printf("aakriti");
     return 0;
 }
